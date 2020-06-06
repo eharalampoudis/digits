@@ -93,9 +93,9 @@ h3 {
 .mountain {
   bottom: 0;
   left: 50%;
-  margin-left: -300px;
+  margin-left: -400px;
   position: absolute;
-  width: 600px;
+  width: 800px;
 }
 
 p {
