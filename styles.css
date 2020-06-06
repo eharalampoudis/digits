@@ -1,0 +1,185 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.bottom-cloud {
+  bottom: 270px;
+  position: absolute;
+  right: 28%;
+}
+
+.bottom-container {
+  background-color: #127681;
+  margin: 0;
+  padding: 20px 0;
+}
+
+.btn {
+  background-color: #10375c;
+  border-radius: 8px;
+  box-shadow: 0 10px 14px -7px #276873;
+  color: #f3c623;
+  cursor: pointer;
+  display: inline-block;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.25em;
+  margin: 10px auto 20px auto;
+  padding: 13px 32px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  cursor: pointer;
+  position: relative;
+  top: 1px;
+}
+
+.btn:active {
+  position: relative;
+  top: 2px;
+}
+
+.contact-me{
+  padding: 25px 0;
+}
+
+.copyright {
+  color: #f4f6ff;
+  margin: 0 auto;
+}
+
+h1 {
+  color: #f3c623;
+  font-family: 'Righteous', cursive;
+  font-size: 6rem;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-shadow: 2px 3px 2px #a38518;
+}
+
+h2 {
+  color: #10375c;
+  font-family: 'Copse', sans-serif;
+  font-size: 2.5rem;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+h3 {
+  color: #10375c;
+  font-family: 'Copse', sans-serif;
+  font-size: 1.5rem;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.intouch{
+  padding: 10px 0;
+}
+
+.middle-cloud {
+  bottom: 325px;
+  position: absolute;
+  right: 75%;
+}
+
+.middle-container {
+  background-color: #f4f6ff;
+  margin: 0;
+  padding-top: 10px;
+}
+
+.mountain {
+  bottom: 0;
+  left: 50%;
+  margin-left: -300px;
+  position: absolute;
+  width: 600px;
+}
+
+p {
+  color: #10375c;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+}
+
+.profile{
+  padding: 25px 0;
+}
+
+.propic {
+  border-radius: 100%;
+  height: 10%;
+  width: 10%;
+}
+
+.rocket{
+  position: absolute;
+  right: 15%;
+  top: 50px;
+  transform: rotate(45deg);
+}
+
+.sectional {
+  border-style: dotted none none none;
+  border-width: 8px;
+  color: #127681;
+  margin: 40px auto;
+  width: 8%;
+}
+
+.skills{
+  padding: 25px 0;
+}
+
+
+.skill-row{
+  line-height: 2;
+  margin: 80px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.skillset {
+  border-style: dotted none none none;
+  border-width: 6px;
+  color: #10375c;
+  margin: 60px auto;
+  width: 5%;
+}
+
+.skill-title{
+  padding-bottom: 10px;
+}
+
+.solar-system-1{
+  float: left;
+  margin-right: 30px;
+  width: 20%;
+}
+
+.solar-system-2{
+  float: right;
+  margin-left: 30px;
+  width: 20%
+}
+
+.top-cloud {
+  position: absolute;
+  right: 55%;
+  top: 50px;
+}
+
+.top-container {
+  background-color: #10375c;
+  padding-bottom: 400px;
+  padding-top: 100px;
+  position: relative;
+}
+
+.top-h {
+  color: #f3c623;
+  font-size: 3rem;
+  line-height: 3.5;
+}
